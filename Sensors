@@ -1,0 +1,4 @@
+The proyect works with an RFID RC5222, a FLAsh module, a Proximity sensor SR501, a microservomotor, a 4x4 keypad, gas sensor and the temperature sensor and LCD on the mbed board. 
+
+It also contains an ADC module which waits to receive signals from two different analog circuits.
+One measures the overall power consumption of the system and the other one is a piezoelectric sensor embbeded in a wheatstone bridge circuit.
